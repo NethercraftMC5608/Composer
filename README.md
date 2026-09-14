@@ -1,30 +1,6 @@
 <div align="center">
 	<h1>
-	<img src="https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg" alt="LMMS Logo"><br>LMMS
-	</h1>
-	<p>Cross-platform music production software</p>
-	<p>
-		<a href="https://lmms.io/">Website</a>
-		⦁︎
-		<a href="https://github.com/LMMS/lmms/releases">Releases</a>
-		⦁︎
-		<a href="https://lmms.io/documentation">User manual</a>
-		⦁︎
-		<a href="https://lmms.io/showcase/">Showcase</a>
-		⦁︎
-		<a href="https://lmms.io/lsp/">Sharing platform</a>
-		⦁︎
-		<a href="https://github.com/LMMS/lmms/wiki">Developer wiki</a>
-		⦁︎
-		<a href="https://lmms.github.io/lmms">Internal documentation</a>
-	</p>
-	<p>
-		<a href="https://github.com/LMMS/lmms/actions/workflows/build.yml"><img src="https://github.com/LMMS/lmms/actions/workflows/build.yml/badge.svg" alt="Build status"></a>
-		<a href="https://lmms.io/download"><img src="https://img.shields.io/github/release/LMMS/lmms.svg?maxAge=3600" 	alt="Latest stable release"></a>
-		<a href="https://github.com/LMMS/lmms/releases"><img src="https://img.shields.io/github/downloads/LMMS/lmms/total.svg?maxAge=3600" alt="Overall downloads on Github"></a>
-		<a href="https://discord.gg/3sc5su7"><img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Join the chat at Discord"></a>
-		<a href="https://www.transifex.com/lmms/lmms/"><img src="https://img.shields.io/badge/localise-on_transifex-green.svg"></a>
-	</p>
+	<img width="128" height="128" alt="c54edde1-98ad-4954-95a0-7ecca7f7a0b4" src="https://github.com/user-attachments/assets/22cb70dd-7101-4e96-b6ae-50773211098c" /><br>Composer for NETHOS </h1>
 </div>
 
 What is LMMS?
