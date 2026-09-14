@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>
-	<img width="128" height="128" alt="c54edde1-98ad-4954-95a0-7ecca7f7a0b4" src="https://github.com/user-attachments/assets/22cb70dd-7101-4e96-b6ae-50773211098c" /><br>Composer for NETHOS </h1>
+	<img width="128" height="128" alt="Composericon" src="https://github.com/user-attachments/assets/af55fc1e-261b-4a14-aba4-7d259befa640" /><br>Composer for NETHOS </h1>
 </div>
 
 What is LMMS?
